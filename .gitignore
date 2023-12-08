@@ -1,0 +1,7 @@
+# .gitignore
+
+# Exclude all files in .vscode except the required ones
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
